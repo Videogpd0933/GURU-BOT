@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [MSD
+global.owner = [MASUD 💥
   ['917679982058', 'GURU', true],
   ['917679982058', 'Ash', true], 
   [''] 
